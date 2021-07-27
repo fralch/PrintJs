@@ -17,6 +17,9 @@ Printing javascript library
 ## Usage
 ### Basic
 ```html
+<div id="printableArea">
+        <h1>Print me</h1>
+</div>
 <input type="button" onclick="printjs('printableArea')" value="Printer Button">
 ```
 
