@@ -3,7 +3,7 @@
 
 # printJS
 Printing javascript library
-#### [Try the Demo](https://www.linkedin.com/in/frank-cairampoma-78454895/)
+#### [Try the Demo](https://fralch.github.io/PrintjsExample/)
 
 
 ## Features
